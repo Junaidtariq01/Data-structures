@@ -22,6 +22,7 @@ void Print(){
     }
     printf("\n");
 }
+
 void Reverse(){
     struct Node *temp = (struct Node *)malloc(sizeof (struct Node));
     struct Node *curr,*next,*prev;

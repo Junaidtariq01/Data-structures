@@ -1,8 +1,8 @@
 
 #include<stdio.h>
 int main (){
-    char str1[30]="RAKIA";
-    char str2[40]="ANDRABI";
+    char str1[30]="A";
+    char str2[40]="ND";
     int i=0,j=0,size1=0,size2=0;
 
     for(size1=0;str1[size1]!='\0';size1++);
